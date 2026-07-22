@@ -1,2 +1,3 @@
-index.htm
+index.html
 New website 
+index.html
